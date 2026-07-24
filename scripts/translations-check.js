@@ -48,7 +48,7 @@ try {
   let output = ''
   let anchors = '\n\n'
   output = output + '# Translating.\n\n'
-  output = output + 'Thank you for being interested in making Call of Cthulhu 7th Edition for Foundry VTT better!'
+  output = output + 'Thank you for being interested in making Secret Histories for Foundry VTT better!'
   if (hasMissingLanguages) {
     output = output + ' Below is a list of translations keys on existing files that still need translated, based on `en.json`.'
   }
@@ -97,7 +97,7 @@ try {
   if (hasMissingLanguages) {
     output = ''
     output = output + '# Missing Translations.\n\n'
-    output = output + 'Thank you for being interested in making Call of Cthulhu 7th Edition for Foundry VTT better!'
+    output = output + 'Thank you for being interested in making Secret Histories for Foundry VTT better!'
     output = output + ' Below is a list of translations keys on existing files that still need translated, based on `en.json`.\n\n'
 
     for (const key in missingLanguages) {
@@ -120,7 +120,7 @@ try {
   if (hasAbandonedLanguages) {
     output = ''
     output = output + '# Abandoned Translations.\n\n'
-    output = output + 'Thank you for being interested in making Call of Cthulhu 7th Edition for Foundry VTT better!'
+    output = output + 'Thank you for being interested in making Secret Histories for Foundry VTT better!'
     output = output + ' Below is a list of translations keys on existing files that still need translated, based on `en.json`.\n\n'
 
     for (const key in abandonedLanguages) {

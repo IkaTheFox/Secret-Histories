@@ -59,6 +59,8 @@ This project uses some assets from Game Icons, thanks to its [authors](https://g
 
 This project uses [socketlib](https://github.com/manuelVo/foundryvtt-socketlib) by Manuel Vögele which is licensed under [MIT](lib/socketlib/LICENSE).
 
+This project is an unofficial implementation of the Secret Histories system found in the Lady Afterwards by Weather Factory Ltd. You can find out more and support its creators at [their website](https://weatherfactory.biz/the-lady-afterwards-a-cultist-simulator-trpg/). All rights are reserved to them, and this project is only intended as a convenience for people that bought The Lady Afterwards and wish to play on Foundry VTT.
+
 This project is based on the remarkable work done on the [Unofficial Call of Cthuhlu 7th Edition for Foundry VTT](https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT) project by all its contributors.
 This project is a WIP (Work in Progress) and as such may still contain uses of trademarks and/or copyrights owned by Chaosium Inc/Moon Design Publications LLC, which are used under [Chaosium Inc's Fan Material Policy](https://www.chaosium.com/fan-material-policy/). We are expressly prohibited from charging you to use or access this content. For more information about Chaosium Inc's products, please visit www.chaosium.com.
 
@@ -69,5 +71,3 @@ This project is a WIP (Work in Progress) and as such may still contain uses of t
 > The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 >
 > THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-This project is an unofficial implementation of the Secret Histories system found in the Lady Afterwards by Weather Factory Ltd. You can find out more and support its creators at [their website](https://weatherfactory.biz/the-lady-afterwards-a-cultist-simulator-trpg/). All rights are reserved to them, and this project is only intended as a convenience for people that bought The Lady Afterwards and wish to play on Foundry VTT.

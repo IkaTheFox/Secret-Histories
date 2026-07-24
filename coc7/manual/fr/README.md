@@ -63,7 +63,7 @@ Pour **accéder aux paramètres** du système:
 * Allez dans le menu vertical à droite.
 * Cliquez sur [fa-solid fa-cogs].
 * Puis sur [fa-solid fa-cogs] _Configurer les paramètres_.
-* Puis sur _Call of Cthulhu 7th Edition_ dans la liste de gauche.
+* Puis sur _Secret Histories_ dans la liste de gauche.
 * Pour sauvegarde et appliquer vos paramètres, cliquez sur [fa-solid fa-floppy-disk] _Sauvegarder_.
 
 Quels paramètres tripoter (notés [fa-solid fa-cogs] et potentiellement, changer la valeur par défaut) et pourquoi ?
