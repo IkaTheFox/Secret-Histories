@@ -1,7 +1,7 @@
 {
-  "name": "fvtt-coc7",
-  "version": "2.0.0",
-  "description": "An implementation of the Call of Cthulhu 7th Edition game system for Foundry Virtual Tabletop.",
+  "name": "fvtt-sh",
+  "version": "0.1.0",
+  "description": "An implementation of the Secret Histories game system for Foundry Virtual Tabletop.",
   "scripts": {
     "build": "webpack --mode production",
     "compendiums-build": "node scripts/compendiums-build.js",
@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT.git"
+    "url": "git+https://github.com/IkaTheFox/Secret-Histories.git"
   },
   "keywords": [],
-  "author": "Miskatonic Investigative Society",
+  "author": "IkaTheFox",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT/issues"
+    "url": "https://github.com/IkaTheFox/Secret-Histories/issues"
   },
-  "homepage": "https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT#readme",
+  "homepage": "https://github.com/IkaTheFox/Secret-Histories#readme",
   "type": "module",
   "devDependencies": {
     "@stylistic/eslint-plugin": "^5.10.0",

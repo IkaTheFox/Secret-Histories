@@ -17,7 +17,7 @@ This documentation can be reopened under Game Settings -> Help and Documentation
 
 # Recent changes
 
-For a full list of changes checkout the [changelog](https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT/blob/develop/.github/CHANGELOG.md) on GitHub
+For a full list of changes checkout the [changelog](https://github.com/IkaTheFox/Secret-Histories/blob/develop/.github/CHANGELOG.md) on GitHub
 
 - [Active effects](effects.md) - Add Luck Recovery formula, Natural Healing value, Know roll bonus dice/value, Idea roll bonus dice/value, and Wildcard bonus dice/value based on CoC ID adjustments
 - Added Idea and Know roll buttons to Investigator Sheet v3

@@ -1,11 +1,11 @@
 {
-  "id": "CoC7",
-  "title": "Call of Cthulhu 7th Edition",
-  "description": "An implementation of the Call of Cthulhu 7th Edition game system for Foundry Virtual Tabletop.",
-  "version": "8.15",
+  "id": "SH",
+  "title": "Secret Histories",
+  "description": "An implementation of the Secret Histories game system for Foundry Virtual Tabletop.",
+  "version": "0.1",
   "authors": [
     {
-      "name": "Miskatonic Investigative Society"
+      "name": "IkaTheFox"
     }
   ],
   "compatibility": {
@@ -20,16 +20,6 @@
     "system.css"
   ],
   "packFolders": [
-    {
-      "name": "Cthulhuwiki | en",
-      "sorting": "a",
-      "color": "#75844c",
-      "packs": [
-        "en-wiki-phobias-and-manias",
-        "en-wiki-roll-tables",
-        "en-wiki-weapons"
-      ]
-    },
     {
       "name": "System Examples | en",
       "sorting": "a",
@@ -126,71 +116,6 @@
       "lang": "fr",
       "name": "Français",
       "path": "lang/fr.json"
-    },
-    {
-      "lang": "es",
-      "name": "Español",
-      "path": "lang/es.json"
-    },
-    {
-      "lang": "de",
-      "name": "Deutsch",
-      "path": "lang/de.json"
-    },
-    {
-      "lang": "ja",
-      "name": "日本語",
-      "path": "lang/ja.json"
-    },
-    {
-      "lang": "cn",
-      "name": "中文",
-      "path": "lang/cn.json"
-    },
-    {
-      "lang": "pl",
-      "name": "Polski",
-      "path": "lang/pl.json"
-    },
-    {
-      "lang": "pt-BR",
-      "name": "Português (Brasil)",
-      "path": "lang/pt-BR.json"
-    },
-    {
-      "lang": "zh-tw",
-      "name": "正體中文",
-      "path": "lang/zh-TW.json"
-    },
-    {
-      "lang": "sv",
-      "name": "Svenska",
-      "path": "lang/sv.json"
-    },
-    {
-      "lang": "cs",
-      "name": "Čeština",
-      "path": "lang/cs.json"
-    },
-    {
-      "lang": "ko",
-      "name": "한국어",
-      "path": "lang/ko.json"
-    },
-    {
-      "lang": "it",
-      "name": "Italiano",
-      "path": "lang/it.json"
-    },
-    {
-      "lang": "ru",
-      "name": "Русский",
-      "path": "lang/ru.json"
-    },
-    {
-      "lang": "uk",
-      "name": "Українська",
-      "path": "lang/uk.json"
     }
   ],
   "socket": true,
@@ -200,9 +125,9 @@
   },
   "primaryTokenAttribute": "attribs.hp",
   "secondaryTokenAttribute": "attribs.san",
-  "url": "https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT",
-  "manifest": "https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT/releases/latest/download/system.json",
-  "download": "https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT/releases/download/8.15/system.zip",
+  "url": "https://github.com/IkaTheFox/Secret-Histories",
+  "manifest": "https://github.com/IkaTheFox/Secret-Histories/releases/latest/download/system.json",
+  "download": "https://github.com/IkaTheFox/Secret-Histories/releases/download/8.15/system.zip",
   "media": [
     {
       "type": "setup",
