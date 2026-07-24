@@ -1,15 +1,15 @@
-<h1 align="center">Call of Cthulhu 7th Edition for Foundry VTT</h1>
+<h1 align="center">Secret Histories for Foundry VTT</h1>
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/Miskatonic-Investigative-Society/CoC7-FoundryVTT.svg">
+  <img src="https://img.shields.io/github/repo-size/IkaTheFox/Secret-Histories.svg">
   <a href="https://github.com/IkaTheFox/Secret-Histories/commits/develop">
-    <img src="https://img.shields.io/github/last-commit/Miskatonic-Investigative-Society/CoC7-FoundryVTT.svg">
+    <img src="https://img.shields.io/github/last-commit/IkaTheFox/Secret-Histories.svg">
   </a>
   <a href="https://github.com/IkaTheFox/Secret-Histories/issues">
-    <img src="https://img.shields.io/github/issues/Miskatonic-Investigative-Society/CoC7-FoundryVTT.svg">
+    <img src="https://img.shields.io/github/issues/IkaTheFox/Secret-Histories.svg">
   </a>
-  <img src="https://img.shields.io/github/license/Miskatonic-Investigative-Society/CoC7-FoundryVTT.svg">
-  <img src="https://img.shields.io/github/downloads/Miskatonic-Investigative-Society/CoC7-FoundryVTT/latest/total">
-  <img src="https://img.shields.io/github/downloads/Miskatonic-Investigative-Society/CoC7-FoundryVTT/total">
+  <img src="https://img.shields.io/github/license/IkaTheFox/Secret-Histories.svg">
+  <img src="https://img.shields.io/github/downloads/IkaTheFox/Secret-Histories/latest/total">
+  <img src="https://img.shields.io/github/downloads/IkaTheFox/Secret-Histories/total">
 </p>
 <p align="center">
   <a href="#usage">Usage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -46,7 +46,7 @@ To understand how to submit an issue, commit and create pull requests, check our
 This system is made possible thanks to all of its contributors!
 
 <a href="https://github.com/IkaTheFox/Secret-Histories/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Miskatonic-Investigative-Society/CoC7-FoundryVTT" />
+  <img src="https://contrib.rocks/image?repo=IkaTheFox/Secret-Histories" />
 </a>
 
 ## Licenses.
